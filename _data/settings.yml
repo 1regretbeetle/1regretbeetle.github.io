@@ -13,6 +13,8 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github', link: 'https://github.com/1regretbeetle'}
+- {icon: 'twitter', link: 'https://twitter.com/oneregretbeetle'}
+- {icon: 'youtube', link: 'https://www.youtube.com/channel/UCHyYw2954DH-J2P8liJNhSw'}
 
 # Customize site text
 pagination:
